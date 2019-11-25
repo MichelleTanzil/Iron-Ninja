@@ -1,0 +1,11 @@
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\iron_ninja\obj\Debug\netcoreapp2.2\iron_ninja.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\iron_ninja\obj\Debug\netcoreapp2.2\iron_ninja.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\iron_ninja\obj\Debug\netcoreapp2.2\iron_ninja.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\iron_ninja\obj\Debug\netcoreapp2.2\iron_ninja.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\iron_ninja\bin\Debug\netcoreapp2.2\iron_ninja.deps.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\iron_ninja\bin\Debug\netcoreapp2.2\iron_ninja.runtimeconfig.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\iron_ninja\bin\Debug\netcoreapp2.2\iron_ninja.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\iron_ninja\bin\Debug\netcoreapp2.2\iron_ninja.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\iron_ninja\bin\Debug\netcoreapp2.2\iron_ninja.pdb
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\iron_ninja\obj\Debug\netcoreapp2.2\iron_ninja.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\language_fundamentals\OOP\iron_ninja\obj\Debug\netcoreapp2.2\iron_ninja.pdb
